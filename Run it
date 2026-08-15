@@ -1,0 +1,12 @@
+Inside the project folder:
+
+pip install pandas matplotlib
+
+Then:
+python athlete_wellness_load_analyzer.py
+
+Check that these files are generated:
+athlete_wellness_analysis.csv
+athlete_wellness_summary.csv
+wellness_vs_training_load.png
+readiness_trend.png

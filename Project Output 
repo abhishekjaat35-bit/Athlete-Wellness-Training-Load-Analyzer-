@@ -1,0 +1,37 @@
+===========================================================================
+TEAM MONITORING SUMMARY
+===========================================================================
+
+Average Training Load : 432.5 AU
+Average Wellness      : 15.5/20
+Average Readiness     : 77.5%
+Average Sleep Quality : 3.9/5
+Average Soreness      : 2.2/5
+Average Fatigue       : 2.2/5
+Average Stress        : 2.2/5
+
+
+Lowest readiness
+===========================================================================
+LOWEST READINESS OBSERVATION
+===========================================================================
+
+Athlete   : Arjun
+Date      : 2026-08-05
+Readiness : 40.0%
+Training Load : 680 AU
+
+
+Highest readiness
+===========================================================================
+HIGHEST READINESS OBSERVATION
+===========================================================================
+
+Athlete   : Rahul
+Date      : 2026-08-01
+Readiness : 100.0%
+
+The program will also create the correlation matrix automatically.
+
+
+
